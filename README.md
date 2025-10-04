@@ -22,3 +22,11 @@ AI, LLM, ML, DL 관련 논문과 코드를 분석하고 학습한 내용을 기�
   - 언어 모델이 환각(hallucination)을 일으키는 통계적 원인 분석
   - Pretraining과 Post-training 단계에서의 환각 발생 메커니즘
   - Is-It-Valid (IIV) 분류 문제를 통한 수학적 증명
+
+### [2025.01.04] Transformer Architecture
+
+- [Attention Is All You Need - 논문 분석](https://github.com/LimPark996/AI-TIL/issues/2#issue-3483221548)
+   - Attention 메커니즘만으로 RNN/CNN 완전 대체 가능성 증명
+   - Scaled Dot-Product Attention과 Multi-Head 구조의 수학적 근거
+   - WMT 2014에서 SOTA 달성 (BLEU 28.4, 기존 대비 +7.8%)
+   - 병렬 처리를 통한 훈련 효율성 향상 (RNN 대비 ~7배) 
