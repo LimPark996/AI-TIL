@@ -29,4 +29,7 @@ AI, LLM, ML, DL 관련 논문과 코드를 분석하고 학습한 내용을 기�
    - Attention 메커니즘만으로 RNN/CNN 완전 대체 가능성 증명
    - Scaled Dot-Product Attention과 Multi-Head 구조의 수학적 근거
    - WMT 2014에서 SOTA 달성 (BLEU 28.4, 기존 대비 +7.8%)
-   - 병렬 처리를 통한 훈련 효율성 향상 (RNN 대비 ~7배) 
+   - 병렬 처리를 통한 훈련 효율성 향상 (RNN 대비 ~7배)
+- [Scaled Dot-Product Attention - 학습](https://github.com/LimPark996/AI-TIL/issues/3#issue-3483635156)
+  - Attention 메커니즘의 forward/backward pass 구체적 계산 과정
+  - 구체적 수치 예시를 통한 QKV 변환 및 gradient 흐름 분석
