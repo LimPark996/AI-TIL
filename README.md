@@ -23,7 +23,7 @@ AI, LLM, ML, DL 관련 논문과 코드를 분석하고 학습한 내용을 기�
   - Pretraining과 Post-training 단계에서의 환각 발생 메커니즘
   - Is-It-Valid (IIV) 분류 문제를 통한 수학적 증명
 
-### [2025.01.04] Transformer Architecture
+### [2025.10.04] Transformer Architecture
 
 - [Attention Is All You Need - 논문 분석](https://github.com/LimPark996/AI-TIL/issues/2#issue-3483221548)
    - Attention 메커니즘만으로 RNN/CNN 완전 대체 가능성 증명
